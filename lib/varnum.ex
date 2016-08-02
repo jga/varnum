@@ -1,0 +1,2 @@
+defmodule Varnum do
+end
